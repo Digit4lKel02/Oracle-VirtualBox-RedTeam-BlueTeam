@@ -24,21 +24,26 @@ Enter the name and Folder Destination. As well as the ISO image. Check off "Skip
 <img src="https://imgur.com/Sv9RF8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter your VM specifications for hardware and CPU usage. You will then be taken to a summary screen. Click "Finish": <br/>
+VM specifications for hardware and CPU usage. You will then be taken to a summary screen. Click "Finish": <br/>
 <img src="https://imgur.com/621TlPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/nCSbKyU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-After starting your VM, You will see a windows splash screen. Click next and install now:  <br/>
+After starting the VM, You will see a windows splash screen. Click next and install now:  <br/>
 <img src="https://imgur.com/b7KjAdA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After clicking "I don't have a product key", windows 10 pro is the operating system. Goes through prompts, Custom install windows, Windows installs now:  <br/>
+<img src="https://imgur.com/iBNy6jn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next, Download Kali Linux @ Kali.org. Install 7zip as well @ 7-zip.org. Once Installed, open your downloads folder. Right click the Kali linux file. Locate 7-zip - Extract to Kali. This will extract Kali and you can open it from the Kali linux folder <br/>
+<img src="https://imgur.com/uDhIPka.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Once downloaded, Kali linux will now be in the VM. Take a snapshot of Kali via VM settings. This makes it so that if I were to break my VM, I can restore it to it's original point by clicking the "restore" option.   <br/>
+<img src="https://imgur.com/FjCnyHc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5LshnQX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
