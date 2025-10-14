@@ -16,20 +16,21 @@ Built and managed a fully isolated home cybersecurity lab with attacker and defe
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the utility. Select new: <br/>
+<img src="https://imgur.com/ywOAtSi.png" height="80%" width="80%" alt="virtual box image"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter the name and Folder Destination. As well as the ISO image. Check off "Skip unattended installation":  <br/>
+<img src="https://imgur.com/Sv9RF8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter your VM specifications for hardware and CPU usage. You will then be taken to a summary screen. Click "Finish": <br/>
+<img src="https://imgur.com/621TlPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nCSbKyU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After starting your VM, You will see a windows splash screen. Click next and install now:  <br/>
+<img src="https://imgur.com/b7KjAdA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
