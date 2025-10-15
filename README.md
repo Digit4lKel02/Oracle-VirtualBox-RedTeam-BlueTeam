@@ -52,6 +52,10 @@ Configured the VM to have an internal network so that it can communicate with ot
  Statically assigned IP addresses so that both machines can communicate with each other via my windows machine. Repeat this process with the Kali Machine.  <br/>
 <img src="https://imgur.com/8qcZY4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://imgur.com/pOJ3ICp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Run msfvenom -l payloads to see what kind of malware is available to use in Kali Linux<br/>
+<img src="https://imgur.com/0UKYrik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
