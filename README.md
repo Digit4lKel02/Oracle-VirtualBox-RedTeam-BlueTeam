@@ -4,7 +4,6 @@
 Built and managed a fully isolated home cybersecurity lab with attacker and defender VMs to simulate and analyze red-team/blue-team workflows. Used Splunk to detect malicious activity. Configured Sysmon on a Windows endpoint to generate detailed logs and enable endpoint visibility. This lab was achieved using Oracle Virtual box as well as Kali Linux.
 <br />
 
-
 <h2>Tools Used</h2>
 
 - <b>Kail Linux, Splunk, SysMod, Oracle VirtualBox</b> 
@@ -46,8 +45,13 @@ Once downloaded, Kali linux will now be in the VM. Take a snapshot of Kali via V
 <img src="https://imgur.com/5LshnQX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured the VM to have an internal network so that it can communicate with other VM's but not my host. Kali Linux VM network was also configured to be internal <br/>
+<img src="https://imgur.com/UyBVvfR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Statically assigned IP addresses so that both machines can communicate with each other via my windows machine. Repeat this process with the Kali Machine.  <br/>
+<img src="https://imgur.com/8qcZY4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/pOJ3ICp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
